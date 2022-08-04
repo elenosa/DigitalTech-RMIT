@@ -27,3 +27,12 @@ This repository contains the materials for the HDR course Digital Technologies. 
 
 - Assignments: This folder contains the Jupyter Noteboooks with the solution of the assignments 
 
+## Downloading the Tutorial Materials
+
+You can clone the repo using:
+
+    git clone https://github.com/elenosa/DigitalTech-RMIT  
+    
+or directly use the download option from GitHub.
+
+
