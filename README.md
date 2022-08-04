@@ -14,9 +14,9 @@ The topics on Lesson 2 and 3 may change
     - Lesson_3 - Function and classes
   
  
-- Module_2: This folder contains Jupyter Notebooks on Python in Engineering Data
+- Module_2: This folder contains Jupyter Notebooks on Python in Engineering Data  
 
-The following topics may change
+The following topics may change  
 
     - Lesson_1 - Time series
     - Lesson_2 - Data processing and statistical analysis
