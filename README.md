@@ -56,11 +56,11 @@ This repository includes [Jupyter Notebooks](https://jupyter.org/). To run these
 
 The course is thought to be developed with SageMaker Studio Lab and therefore, the suggested method is to clone the repository there and build the Anaconda [environment.yml](./environment.yml)  
 
-You can create the Anaconda environment directly from the terminal in the Studio Lab using  
+You can create the Anaconda environment (``.yml``) directly from the terminal in the Studio Lab using  
 
     conda env create -f environment.yml
 
-or just right-click the environment.yml file and select "Y: Build Conda Environment"  
+or just right-click the ``environment.yml`` file and select "Y: Build Conda Environment"  
 
 To run the notebooks in your local machine you need to download a Python Distribution, preferably [Anaconda](https://www.continuum.io/downloads). This will include all the packages mentioned above.
 
