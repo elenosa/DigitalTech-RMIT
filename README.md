@@ -29,11 +29,14 @@ This repository contains the materials for the HDR course Digital Technologies. 
 
 ## Downloading the Tutorial Materials
 
-You can clone the repo using:
+For SageMaker Studio Lab, copy this repo URL into the Git tab:
+
+    https://github.com/elenosa/DigitalTech-RMIT
+
+You can clone the repo to your local machine:
 
     git clone https://github.com/elenosa/DigitalTech-RMIT  
-    
-or copy the URL into the Git tab on SageMaker Studio Lab  
+
 or directly use the download option from GitHub.
 
 
