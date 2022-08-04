@@ -34,7 +34,7 @@ For SageMaker Studio Lab, copy this repo URL into the Git tab:
 
     https://github.com/elenosa/DigitalTech-RMIT
 
-You can clone the repo to your local machine:
+You can also clone the repo to your local machine:
 
     git clone https://github.com/elenosa/DigitalTech-RMIT  
 
