@@ -51,7 +51,7 @@ This repository includes [Jupyter Notebooks](https://jupyter.org/). To run these
 
 - [matplotlib](http://matplotlib.org/),  a plotting library for the Python programming language and its numerical mathematics extension NumPy.
 
-- And the [Computer Algebra System (CAS)](https://en.wikipedia.org/wiki/Computer_algebra_system) --> [Sympy](http://www.sympy.org/).  
+- And [Sympy](http://www.sympy.org/), a [Computer Algebra System (CAS)](https://en.wikipedia.org/wiki/Computer_algebra_system). 
 
 The course is thought to be developed with SageMaker Studio Lab and therefore, the suggested method is to clone the repository there and build the Anaconda [environment.yml](./environment.yml)  
 
