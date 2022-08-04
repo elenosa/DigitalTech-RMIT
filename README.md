@@ -33,6 +33,7 @@ You can clone the repo using:
 
     git clone https://github.com/elenosa/DigitalTech-RMIT  
     
+or copy the URL into the Git tab on SageMaker Studio Lab  
 or directly use the download option from GitHub.
 
 
