@@ -8,6 +8,7 @@ This repository contains the materials for the HDR course Digital Technologies. 
 - Module_1: This folder contains Jupyter Notebooks on Python essentials (W0-2)  
 
 The topics on Lesson 2 and 3 may change  
+-
     - Lesson_0 - Getting started with SageMaker Studio Lab
     - Lesson_1 - Python Objects
     - Lesson_2 - Operating on Objects
@@ -17,7 +18,7 @@ The topics on Lesson 2 and 3 may change
 - Module_2: This folder contains Jupyter Notebooks on Python in Engineering Data  
 
 The following topics may change  
-
+-
     - Lesson_1 - Time series
     - Lesson_2 - Data processing and statistical analysis
     - Lesson_3 - Data visualisation with matplotlib
