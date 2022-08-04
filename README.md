@@ -39,4 +39,28 @@ You can clone the repo to your local machine:
 
 or directly use the download option from GitHub.
 
+## Installation Instructions
+
+This repository includes [Jupyter Notebooks](https://jupyter.org/). To run these you will need [Python](https://www.python.org/) and some packages:
+
+- [IPython](http://ipython.org/), a command shell for interactive computing in multiple programming languages that offers introspection, rich media, shell syntax, tab completion, and history.
+
+- [NumPy](http://www.numpy.org/), an extension to the Python programming language, adding support for large, multi-dimensional arrays and matrices, along with a large library of high-level mathematical functions to operate on these arrays.
+
+- [SciPy](http://www.scipy.org/), an open source Python library used for scientific computing and technical computing.
+
+- [matplotlib](http://matplotlib.org/),  a plotting library for the Python programming language and its numerical mathematics extension NumPy.
+
+- [Computer Algebra System (CAS)](https://en.wikipedia.org/wiki/Computer_algebra_system) [Sympy](http://www.sympy.org/).  
+
+The course is thought to be developed with SageMaker Studio Lab and therefore, the suggested method is to clone the repository there and build the Anaconda [environment.yml](./environment.yml)  
+
+You can create the Anaconda environment directly from the terminal in the Studio Lab using  
+
+    conda env create -f environment.yml
+
+or just right-click the environment.yml file and select "Y: Build Conda Environment"  
+
+To run the notebooks in your local machine you need to download a Python Distribution, preferably [Anaconda](https://www.continuum.io/downloads). This will include all the packages mentioned above.
+
 
