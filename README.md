@@ -16,12 +16,12 @@ This repository contains the materials for the HDR course Digital Technologies. 
  
 - Module_2: This folder contains Jupyter Notebooks on Python in Engineering Data  
 
-The following topics may change  
-
--
     - Lesson_1 - Time series
     - Lesson_2 - Data processing and statistical analysis
-    - Lesson_3 - Data visualisation with matplotlib
+    - Lesson_3 - Data visualisation with matplotlib  
+
+
+(Above topics may change)  
 
 - Quizzes: This folder contains the solutions of the designed quizzes for each module lesson
 
