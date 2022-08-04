@@ -1,0 +1,19 @@
+name: digi-tech
+channels:
+  - conda-forge
+dependencies:
+  - python>3.7
+  - ipykernel
+  - numpy
+  - scipy
+  - matplotlib
+  - pyqt>=5.9
+  - vtk>=8
+  - ipywidgets
+  - ipyevents
+  - pyvista
+  - itkwidgets
+  - sympy
+  - mayavi
+  - pip
+  
