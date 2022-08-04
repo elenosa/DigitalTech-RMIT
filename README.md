@@ -64,4 +64,22 @@ or just right-click the environment.yml file and select "Y: Build Conda Environm
 
 To run the notebooks in your local machine you need to download a Python Distribution, preferably [Anaconda](https://www.continuum.io/downloads). This will include all the packages mentioned above.
 
+## .md files
+
+To visualise Markdown (``.md``) files on the Studio Lab you can open the ``.html`` version. They were compiled with [``pandoc``](http://pandoc.org/) using
+
+     pandoc -t slidy --css style.css -s slides.md -o slides.html
+
+or
+
+     pandoc -t slidy --css style.css --mathjax -s slides.md -o slides.html
+
+to use [MathJax](https://www.mathjax.org/) to render the equations.
+
+## License
+All code is under MIT license and media under Creative Commons Attribute.
+
+The content of this reposirtory is licensed under the [Creative Commons Attribution 4.0 license](http://choosealicense.com/licenses/cc-by-4.0/), and the source code that accompany the content is licensed under the [MIT license](https://opensource.org/licenses/mit-license.php).
+
+
 
