@@ -54,7 +54,7 @@ This repository includes [Jupyter Notebooks](https://jupyter.org/). To run these
 
 - And [Sympy](http://www.sympy.org/), a [Computer Algebra System (CAS)](https://en.wikipedia.org/wiki/Computer_algebra_system). 
 
-The course is thought to be developed with SageMaker Studio Lab and therefore, the suggested method is to clone the repository there and build the Anaconda [environment.yml](./environment.yml)  
+The course is thought to be developed with [SageMaker Studio Lab](https://studiolab.sagemaker.aws/) and therefore, the suggested method is to clone the repository there and build the Anaconda [environment.yml](./environment.yml)  
 
 You can create the Anaconda environment (``.yml``) directly from the terminal in the Studio Lab using  
 
@@ -63,6 +63,13 @@ You can create the Anaconda environment (``.yml``) directly from the terminal in
 or just right-click the ``environment.yml`` file and select "Y: Build Conda Environment"  
 
 To run the notebooks in your local machine you need to download a Python Distribution, preferably [Anaconda](https://www.continuum.io/downloads). This will include all the packages mentioned above.
+
+## SageMaker Studio Lab and CANVAS RMIT
+
+The progress of the course is monitored through [RMIT CANVAS](https://www.rmit.edu.au/students/my-course/canvas) platform. In the first module of the course students can find the instructions and a step-by-step video on how to create an account in [SageMaker Studio Lab](https://studiolab.sagemaker.aws/) and the basics to run Jupyter Notebooks.  
+
+A quick introduction to the Studio Lab can be found in this [Youtube tutorial](https://www.youtube.com/watch?v=ue7LuQtE6Pw&ab_channel=TinyTechnicalTutorials) developed by Tiny Technical Tutorials.
+
 
 ## .md files
 
